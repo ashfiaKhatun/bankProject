@@ -1,0 +1,57 @@
+#transaction
+{
+    display: none;
+}
+
+.submitArea
+{
+    display: block;
+    width: 55%;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px grey;
+
+}
+
+.submitArea input
+{    
+    width: 70%;
+    margin: auto;
+}
+
+.dep
+{
+    color: white;
+    background-color: brown;
+    margin: 0px 30px;
+}
+
+.with
+{
+    color: white;
+    background-color: crimson;
+    margin: 0px 30px;
+}
+
+.bal
+{
+    color: white;
+    background-color: coral;
+    margin: 0px 30px;
+}
+
+.taka
+{
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.hishab
+{
+    background-color: antiquewhite;
+    margin: 30px 30px;
+    padding: 15px;
+    border-radius: 10px;
+}
